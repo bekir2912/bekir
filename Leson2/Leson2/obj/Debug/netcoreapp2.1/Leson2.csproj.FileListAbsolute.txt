@@ -1,0 +1,11 @@
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\bin\Debug\netcoreapp2.1\Leson2.deps.json
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\bin\Debug\netcoreapp2.1\Leson2.runtimeconfig.json
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\bin\Debug\netcoreapp2.1\Leson2.runtimeconfig.dev.json
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\bin\Debug\netcoreapp2.1\Leson2.dll
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\bin\Debug\netcoreapp2.1\Leson2.pdb
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\obj\Debug\netcoreapp2.1\Leson2.csprojAssemblyReference.cache
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\obj\Debug\netcoreapp2.1\Leson2.csproj.CoreCompileInputs.cache
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\obj\Debug\netcoreapp2.1\Leson2.AssemblyInfoInputs.cache
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\obj\Debug\netcoreapp2.1\Leson2.AssemblyInfo.cs
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\obj\Debug\netcoreapp2.1\Leson2.dll
+C:\Users\БекировБ\Desktop\0701.2020 C#\Leson2\Leson2\obj\Debug\netcoreapp2.1\Leson2.pdb
